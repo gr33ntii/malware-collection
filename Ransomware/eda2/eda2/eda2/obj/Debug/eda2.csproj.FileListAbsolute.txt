@@ -1,0 +1,9 @@
+E:\malware\theZoo-master\malwares\Binaries\eda2-master\eda2\eda2\bin\Debug\eda2.exe.config
+E:\malware\theZoo-master\malwares\Binaries\eda2-master\eda2\eda2\bin\Debug\eda2.exe
+E:\malware\theZoo-master\malwares\Binaries\eda2-master\eda2\eda2\bin\Debug\eda2.pdb
+E:\malware\theZoo-master\malwares\Binaries\eda2-master\eda2\eda2\obj\Debug\eda2.csprojResolveAssemblyReference.cache
+E:\malware\theZoo-master\malwares\Binaries\eda2-master\eda2\eda2\obj\Debug\eda2.Form1.resources
+E:\malware\theZoo-master\malwares\Binaries\eda2-master\eda2\eda2\obj\Debug\eda2.Properties.Resources.resources
+E:\malware\theZoo-master\malwares\Binaries\eda2-master\eda2\eda2\obj\Debug\eda2.csproj.GenerateResource.Cache
+E:\malware\theZoo-master\malwares\Binaries\eda2-master\eda2\eda2\obj\Debug\eda2.exe
+E:\malware\theZoo-master\malwares\Binaries\eda2-master\eda2\eda2\obj\Debug\eda2.pdb

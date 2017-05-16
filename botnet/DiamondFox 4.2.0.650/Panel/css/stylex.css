@@ -1,0 +1,65 @@
+#content {
+    font-size: 12px;
+    font-family: Lucida Sans Unicode, Tahoma, Arial;
+    text-align: center;
+    background-color: #e8edec url('images/overlay.png');
+    border-top: 0px solid black;
+    border-left: 0px solid black;
+    border-right: 0px solid black;
+    border-bottom: 0px solid black;
+    padding: 5px;
+    width: 1100px;
+}
+
+#content .tb {
+    border: 1px solid #000;
+    width: 180px;
+}
+
+#content .tb:focus {
+    border: 1px solid #09F;
+    width: 300px;
+}
+
+#content .btn {
+    border: 1px solid black;
+    background-color: white;
+    width: 150px;
+    cursor: pointer;
+}
+
+#content .btn:hover {
+    border: 1px solid #a50b00;
+    color: #a50b00;
+}
+
+#content #table {
+    font-size: 13px;
+}
+
+#content .th {
+    border-bottom: 1px solid silver;
+    width: 150px;
+    text-align: left;
+    font-weight: normal;
+    color: #a50b00;
+}
+
+#content .td {
+    border-bottom: 1px solid silver;
+    width: 150px;
+    text-align: left;
+}
+
+.clearfix:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+}
+
+.clearfix {
+    display: inline-block;
+}

@@ -1,0 +1,9 @@
+$tf
+src/.vs/*
+*.suo
+src/Ransomware/bin/*
+src/Ransomware/obj/*
+src/NxCommandAndControl/bin/*
+src/NxCommandAndControl/obj/*
+src/packages/*
+template/Command_And_Control/AdminLTE-2.3.3/*
